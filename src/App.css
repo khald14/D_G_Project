@@ -1,0 +1,95 @@
+.body{
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  display:  grid;
+  place-items: center;
+  height: 100vh;
+  background-color: rgb(96, 103, 103);
+}
+
+.Login{
+  width: 600px;
+  height: 300px;
+  border: 5px solid aqua;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Login input{
+  margin: 10px;
+  width: 200px;
+  height: 40px;
+  border: 2px solid aqua;
+  background-color: transparent;
+  padding-left: 10px;
+  color: white;
+  font-size: 15px;
+}
+
+.Login input:focus{
+  outline: none;
+}
+.Login button{
+
+  width: 200px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  background-color: aqua ;
+  color: rgb(29, 25, 25);
+  font-size: 15px;
+  margin-top: 40px;
+}
+.Login button:hover{
+  cursor: pointer;
+  background-color: rgb(0, 189, 189);
+}
+
+.canvas-container{
+  width: 500px;
+  height: 500px;
+  border: 5px solid aqua;
+  border-radius: 10px;
+}
+
+
+ .custom-select {
+  display: flex;
+  width: 100px;
+  height: 20px;
+  border-radius: 5px;
+  background-color: rgb(0, 157, 157);
+}
+
+.game-header{
+  color: rgb(0, 157, 157);
+  display: flex;
+  justify-content: center;
+}
+.game-canvas-container{
+  width: 500px;
+  height: 500px;
+  border: 5px solid aqua;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+.game-radios{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.send-button{
+   background-color: rgb(0, 130, 130);
+   color: "white";
+   border-radius: 10px;
+   border: none;
+   margin-left: 10px;
+}
