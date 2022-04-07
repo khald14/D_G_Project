@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://khald14.github.io/Draw-Guess",
+  "homepage":"https://khald14.github.io/D_G_Client",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",

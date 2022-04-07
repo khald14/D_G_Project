@@ -3,7 +3,7 @@ import React, {useState,useEffect} from 'react'
 import io from 'socket.io-client'
 import GameBoard from './GameBoard';
 
-const socket = io.connect("http://localhost:3001");
+const socket = io.connect("https://drawandguessf.herokuapp.com/");
 
 function App() { 
   const [loggedIn , setLoggedIn] = useState(false);
@@ -66,21 +66,6 @@ return (
   </div>
 );
 
-
-  // return (
-    
-  //   <div className="App">
-  //     {loggedIn ? (<GameBoard socket = {socket} room = {room} username = {userName}/>):(
-  //       <div className='Login'>
-  //         <div className='Input'>
-  //           <input type="text" placeholder='UserName...' onChange={(e)=>{setUserName(e.target.value)}}></input>
-  //           <input type="text" placeholder='Room...' onChange={(e)=>{setRoom(e.target.value)}}></input>
-  //         </div>
-  //         <button onClick={connectToRoom}>Login</button>
-  //       </div>
-  //       )}
-  //   </div>
-  // );
 }
 
 export default App;
