@@ -41,8 +41,8 @@ https://khald14.github.io/D_G_Client/
 
 
 ### `App Screens`
-<img width="384" alt="register" src="https://user-images.githubusercontent.com/63257625/178314140-f89784a8-1f6f-4fdf-a6ea-fafe444c83ab.png">
-![guess](https://user-images.githubusercontent.com/63257625/178314161-e1cedcd0-a100-4de9-b645-c3daac758ef3.png)
-![draw](https://user-images.githubusercon<img width="319" alt="waiting" src="https://user-images.githubusercontent.com/63257625/178314194-54fed51a-284a-4b31-acf5-f9a17a121f79.png">
-tent.com/63257625/178314180-08770440-a327-4823-8a19-3a3e539e8a76.png)
+<img width="384" alt="register" src="https://user-images.githubusercontent.com/63257625/178314292-4927919e-1fa3-4fc9-8b83-27b08a6c1a24.png">
+
+![guess](https://user-images.githubusercontent.com/63257625/178314320-5627e6bc-c85b-45c0-9eab-4e808318146f.png)
+
 
