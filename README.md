@@ -42,7 +42,8 @@ https://khald14.github.io/D_G_Client/
 
 ### `App Screens`
 <img width="384" alt="register" src="https://user-images.githubusercontent.com/63257625/178314292-4927919e-1fa3-4fc9-8b83-27b08a6c1a24.png">
-![guess](https://user-images.githubusercontent.com/63257625/178314857-56b3b64f-e5d6-41bf-8a75-662f31e453d9.jpeg)
+
+![guess](https://user-images.githubusercontent.com/63257625/178314948-ee4d0ac0-cfdb-47d1-9d2e-cb6b8378c2fa.jpeg)
 
 
 
